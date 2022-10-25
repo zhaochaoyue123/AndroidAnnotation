@@ -10,6 +10,9 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/anno" />
+            <option value="$PROJECT_DIR$/anno-api" />
+            <option value="$PROJECT_DIR$/anno-compiler" />
             <option value="$PROJECT_DIR$/app" />
           </set>
         </option>

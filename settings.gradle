@@ -12,5 +12,8 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "Android Annotation"
+rootProject.name = "MyAnnotation"
 include ':app'
+include ':anno'
+include ':anno-compiler'
+include ':anno-api'
